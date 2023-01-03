@@ -5,17 +5,11 @@ C:\demo\DatingApp\API\bin\Debug\net7.0\API.deps.json
 C:\demo\DatingApp\API\bin\Debug\net7.0\API.runtimeconfig.json
 C:\demo\DatingApp\API\bin\Debug\net7.0\API.dll
 C:\demo\DatingApp\API\bin\Debug\net7.0\API.pdb
-C:\demo\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\demo\DatingApp\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\demo\DatingApp\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\demo\DatingApp\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\demo\DatingApp\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\demo\DatingApp\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
 C:\demo\DatingApp\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
 C:\demo\DatingApp\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
 C:\demo\DatingApp\API\obj\Debug\net7.0\API.AssemblyInfo.cs
 C:\demo\DatingApp\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
-C:\demo\DatingApp\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
 C:\demo\DatingApp\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
 C:\demo\DatingApp\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
 C:\demo\DatingApp\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
@@ -25,7 +19,6 @@ C:\demo\DatingApp\API\obj\Debug\net7.0\staticwebassets.pack.json
 C:\demo\DatingApp\API\obj\Debug\net7.0\staticwebassets.build.json
 C:\demo\DatingApp\API\obj\Debug\net7.0\staticwebassets.development.json
 C:\demo\DatingApp\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
-C:\demo\DatingApp\API\obj\Debug\net7.0\API.csproj.CopyComplete
 C:\demo\DatingApp\API\obj\Debug\net7.0\API.dll
 C:\demo\DatingApp\API\obj\Debug\net7.0\refint\API.dll
 C:\demo\DatingApp\API\obj\Debug\net7.0\API.pdb
